@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="4. Community evacuation shelter identification and preparation" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION C: ACCESSIBILITY IN EMERGENCIES" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_2841">
+				<text src="toolkit_c.html#d2e2296" id="txt_2841" />
+			</par>
+			<par endsync="last" id="par_2842">
+				<text src="toolkit_c.html#id_1207" id="txt_2842" />
+			</par>
+			<par endsync="last" id="par_2843">
+				<text src="toolkit_c.html#id_1208" id="txt_2843" />
+			</par>
+			<par endsync="last" id="par_2844">
+				<text src="toolkit_c.html#id_1209" id="txt_2844" />
+			</par>
+			<par endsync="last" id="par_2845">
+				<text src="toolkit_c.html#id_1210" id="txt_2845" />
+			</par>
+			<par endsync="last" id="par_2846">
+				<text src="toolkit_c.html#id_1211" id="txt_2846" />
+			</par>
+		</seq>
+	</body>
+</smil>

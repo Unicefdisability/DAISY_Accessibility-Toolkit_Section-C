@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="Standards and guidelines for accessibility in humanitarian action" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION C: ACCESSIBILITY IN EMERGENCIES" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_2867">
+				<text src="toolkit_c.html#d2e2366" id="txt_2867" />
+			</par>
+			<par endsync="last" id="par_2868">
+				<text src="toolkit_c.html#id_1239" id="txt_2868" />
+			</par>
+			<par endsync="last" id="par_2869">
+				<text src="toolkit_c.html#id_1240" id="txt_2869" />
+			</par>
+			<par endsync="last" id="par_2870">
+				<text src="toolkit_c.html#id_1241" id="txt_2870" />
+			</par>
+			<par endsync="last" id="par_2871">
+				<text src="toolkit_c.html#id_1242" id="txt_2871" />
+			</par>
+			<par endsync="last" id="par_2872">
+				<text src="toolkit_c.html#id_1244" id="txt_2872" />
+			</par>
+			<par endsync="last" id="par_2873">
+				<text src="toolkit_c.html#id_1245" id="txt_2873" />
+			</par>
+			<par endsync="last" id="par_2874">
+				<text src="toolkit_c.html#id_1246" id="txt_2874" />
+			</par>
+			<par endsync="last" id="par_2875">
+				<text src="toolkit_c.html#id_1248" id="txt_2875" />
+			</par>
+			<par endsync="last" id="par_2876">
+				<text src="toolkit_c.html#id_1249" id="txt_2876" />
+			</par>
+			<par endsync="last" id="par_2877">
+				<text src="toolkit_c.html#id_1250" id="txt_2877" />
+			</par>
+			<par endsync="last" id="par_2878">
+				<text src="toolkit_c.html#id_1251" id="txt_2878" />
+			</par>
+		</seq>
+	</body>
+</smil>

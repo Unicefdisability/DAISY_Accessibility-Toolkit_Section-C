@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="8. Accessible hygiene promotion sessions and materials" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION C: ACCESSIBILITY IN EMERGENCIES" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_2780">
+				<text src="toolkit_c.html#d2e2139" id="txt_2780" />
+			</par>
+			<par endsync="last" id="par_2781">
+				<text src="toolkit_c.html#id_1128" id="txt_2781" />
+			</par>
+			<par endsync="last" id="par_2782">
+				<text src="toolkit_c.html#id_1130" id="txt_2782" />
+			</par>
+			<par endsync="last" id="par_2783">
+				<text src="toolkit_c.html#id_1131" id="txt_2783" />
+			</par>
+			<par endsync="last" id="par_2784">
+				<text src="toolkit_c.html#id_1133" id="txt_2784" />
+			</par>
+			<par endsync="last" id="par_2785">
+				<text src="toolkit_c.html#id_1134" id="txt_2785" />
+			</par>
+			<par endsync="last" id="par_2786">
+				<text src="toolkit_c.html#id_1135" id="txt_2786" />
+			</par>
+			<par endsync="last" id="par_2787">
+				<text src="toolkit_c.html#id_1136" id="txt_2787" />
+			</par>
+			<par endsync="last" id="par_2788">
+				<text src="toolkit_c.html#id_1137" id="txt_2788" />
+			</par>
+			<par endsync="last" id="par_2789">
+				<text src="toolkit_c.html#id_1139" id="txt_2789" />
+			</par>
+			<par endsync="last" id="par_2790">
+				<text src="toolkit_c.html#id_1140" id="txt_2790" />
+			</par>
+			<par endsync="last" id="par_2791">
+				<text src="toolkit_c.html#p53" id="txt_2791" />
+			</par>
+		</seq>
+	</body>
+</smil>
